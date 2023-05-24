@@ -21,6 +21,10 @@ const elementClasses = [
   'footer_component',
   'slider_active_state',
   'section-home-testimonials',
+  'section-home-header',
+  'section-home-articles',
+  'home-one_tabs_menu',
+  'fs-sliderdots_content_new slider_active_state',
 ];
 
 // Fonction pour basculer le mode sombre
