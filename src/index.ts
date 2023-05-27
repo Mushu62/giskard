@@ -18,6 +18,7 @@ const elementClasses = [
   'section-home-articles',
   'knowledge_top-content',
   'section-cta',
+  'nav_logo',
   'footer_component',
   'slider_active_state',
   'section-home-testimonials',
