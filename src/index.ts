@@ -58,6 +58,3 @@ switcher.addEventListener('click', function () {
   // Enregistrez la préférence de l'utilisateur dans le stockage local
   localStorage.setItem('darkMode', isDark.toString());
 });
-
-
-
